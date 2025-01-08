@@ -1,3 +1,5 @@
+// https://covenant.tistory.com/224
+
 const fs = require("fs");
 const filePath = process.platform === "linux" ? "/dev/stdin" : "./input.txt";
 
